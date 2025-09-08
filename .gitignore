@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+.env
+/Projects/
+/embedding_cache/
+"OpenAi API Key.txt"
+
+# Temporary files
+"Lista plików.txt"
+"List of files.txt"
+"Updated English README.pdf"
+"Updated Polish README.pdf"
+wymagania_txt.txt

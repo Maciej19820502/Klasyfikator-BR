@@ -1,0 +1,19 @@
+requirements_txt.txt
+wymagania_txt.txt
+business_case_v6.md
+business_case_v6_pl.md
+analyze_results_v2.py
+analyze_results_v3.py
+extract_clusters.py
+extract_examples.py
+run_document.py
+similarity_tool.py
+What is Lorem Ipsum.pdf
+Czym jest Lorem Ipsum.docx
+What is Lorem Ipsum.docx
+Czym jest Lorem Ipsum.pdf
+Danet treningowe.docx
+Updated English README.pdf
+Updated Polish README.pdf
+readme_english_updated.md
+readme_polish_updated.md
